@@ -1,2 +1,6 @@
 added 1 file
+<<<<<<< HEAD
 added new branch
+=======
+added new branch 
+>>>>>>> feature-branch
